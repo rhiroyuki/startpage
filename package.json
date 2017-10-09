@@ -1,0 +1,11 @@
+{
+  "name": "start-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ricardo Eihara <ricardo.hejr@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
